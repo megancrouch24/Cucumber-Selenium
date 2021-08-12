@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.307">
+    <testcase classname="Navigate to Bing" name="_2" time="4.969">
+        <system-out><![CDATA[When I request https://www.bing.com.........................................passed
+When i search for doge......................................................passed
+Then the title of the page should be "doge - Bing"..........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
